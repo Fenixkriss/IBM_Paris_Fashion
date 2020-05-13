@@ -3,3 +3,7 @@ IBM Data Science Certification. Restaurant in Paris. Final Assignment.
 # Prospects of opening a Restaurant in Paris, France. 
 ## What is the best place for my restaurant business in Paris?
 
+The entire description and date of the science methodology are described in the code in the Jupyter Notebook.
+All code is documented and contains step-by-step conclusions and analyzes.
+
+![alt text](https://github.com/Fenixkriss/IBM_Paris_Restaurant/blob/master/Paris_finalmap_clusters.jpg)
