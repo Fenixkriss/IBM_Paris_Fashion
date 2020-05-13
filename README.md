@@ -1,2 +1,2 @@
-# IBM_Paris_Fashion
-IBM Data Science Certification. Paris Fashion. Final Assignment.
+# IBM_Restaurant_in_Paris.
+IBM Data Science Certification. Restaurant in Paris. Final Assignment.
