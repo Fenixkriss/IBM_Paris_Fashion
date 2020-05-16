@@ -1,4 +1,4 @@
-IBM Data Science Certification. Restaurant in Paris. Final Assignment.
+|![alt text](https://github.com/Fenixkriss/IBM_Paris_Restaurant/blob/master/Specialization_Certificate_Emblem_ADS_Final_min.png)| IBM Data Science Certification. Restaurant in Paris. Final Assignment. |
 
 # Prospects of opening a Restaurant in Paris, France. 
 ## What is the best place for my restaurant business in Paris?
@@ -9,4 +9,4 @@ All code is documented and contains step-by-step conclusions and analyzes.
 ![alt text](https://github.com/Fenixkriss/IBM_Paris_Restaurant/blob/master/Paris_finalmap_clusters.jpg)
 
 ---
-![alt text](https://github.com/Fenixkriss/IBM_Paris_Restaurant/blob/master/Specialization_Certificate_Emblem_ADS_Final_min.png)
+
