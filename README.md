@@ -1,4 +1,5 @@
-|![alt text](https://github.com/Fenixkriss/IBM_Paris_Restaurant/blob/master/Specialization_Certificate_Emblem_ADS_Final_min.png)| IBM Data Science Certification. Restaurant in Paris. Final Assignment. |
+![Badge](https://github.com/Fenixkriss/IBM_Paris_Restaurant/blob/master/Specialization_Certificate_Emblem_ADS_Final_min.png) ![Badge](https://github.com/Fenixkriss/IBM_Paris_Restaurant/blob/master/Applied_Data_Science_Capstone_min.png)
+IBM Data Science Certification. Restaurant in Paris. Final Assignment. 
 
 # Prospects of opening a Restaurant in Paris, France. 
 ## What is the best place for my restaurant business in Paris?
