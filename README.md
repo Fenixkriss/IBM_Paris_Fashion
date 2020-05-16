@@ -7,3 +7,6 @@ The entire description and date of the science methodology are described in the 
 All code is documented and contains step-by-step conclusions and analyzes.
 
 ![alt text](https://github.com/Fenixkriss/IBM_Paris_Restaurant/blob/master/Paris_finalmap_clusters.jpg)
+
+---
+![alt text](https://github.com/Fenixkriss/IBM_Paris_Restaurant/blob/master/Specialization_Certificate_Emblem_ADS_Final_min.png)
